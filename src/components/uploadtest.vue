@@ -4,6 +4,7 @@
     <input type="file" name="file" />
     <input type="submit" value="提交" />
    </form>
+   测试测试
   </div>
 </template>
 
